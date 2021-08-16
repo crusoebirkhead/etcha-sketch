@@ -1,6 +1,32 @@
+body{
+  background-color: #232946;
+  
+}
+
+h1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  color: #fffffe
+}
 html {
   text-align: center;
   font-family: Monaco;
+}
+
+label{
+  font-size: 25px;
+  color: #fffffe;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.reset{
+  border: 2px solid black;
+  box-shadow: none;
+  background-color: #eebbc3;
+  border-radius: 20%;
+  font-family: 'Open Sans', sans-serif;
+  -webkit-appearance: none;
+    -moz-appearance: none;
 }
 
 .square {
@@ -9,7 +35,7 @@ html {
 }
 
 .color {
-  background-color: gray;
+  background-color: #b8c1ec;
   border: 1px solid black;
 }
 
